@@ -1,3 +1,3 @@
 # Python codes
 
-Some Python codes called Karen AT (Alan Turing) development aroud 
+Some text editors and calculators in Python called Karen AT (Alan Turing). 
